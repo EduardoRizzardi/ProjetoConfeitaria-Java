@@ -1,0 +1,8 @@
+Relatório do Pedido: 
+
+ Sabor:Martha Rocha Quantidade:3
+ Valor a pagar: R$195Relatório do Pedido: 
+
+ Sabor:Bolo de Ferreiro
+ Quantidade:4
+ Valor a pagar: R$380
